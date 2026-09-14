@@ -1,4 +1,4 @@
-I am Arman Baadpa 🕶. I am 16 years old. I am very interested in quantum physics ⚛ and operating system 💻 design with assembly and web 🌐 design. My biggest projects are the IBOS operating system (which I lost :| ) and Nirana encryption (former Pargon). Currently, I live in Iran, Sistan and Baluchistan, Chabahar city, and I am self-taught in the field of programming, and I do not have a certificate. ( I love ASCII art. ) ascii-magic
+I am Arman Baadpa 🕶. I am 16 years old. I am very interested in quantum physics ⚛ and operating system 💻 design with assembly and web 🌐 design. My biggest projects are the IBOS operating system (which I lost :| ) and Nirana encryption (former Pargon). Currently, I live in Iran, Sistan and Baluchistan, Zahedan city, and I am self-taught in the field of programming, and I do not have a certificate. ( I love ASCII art. ) ascii-magic
 
 
 <img width="1100" height="616" alt="hero-after" src="https://github.com/user-attachments/assets/501815c1-1ea4-4649-ab93-d35a990b3549" />
